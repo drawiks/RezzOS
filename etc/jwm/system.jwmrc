@@ -49,7 +49,7 @@
 
     <!-- Visual Styles (Breeze Dark) -->
     <WindowStyle>
-        <Font>Noto NotoSans-11:bold</Font>
+        <Font>Liberation Sans-11:bold</Font>
         <Width>4</Width>
         <Height>21</Height>
         <Corner>3</Corner>
@@ -66,7 +66,7 @@
     </WindowStyle>
     
     <TrayStyle group="true" list="all">
-        <Font>NotoSans-11</Font>
+        <Font>Liberation Sans-11</Font>
         <Background>#232629</Background>
         <Foreground>#FCFCFC</Foreground>
         <Outline>#1a1c1f</Outline>
@@ -74,7 +74,7 @@
     </TrayStyle>
     
     <TaskListStyle>
-      <Font>NotoSans-11</Font>
+      <Font>Liberation Sans-11</Font>
       <Active>
         <Foreground>#FCFCFC</Foreground>
         <Background>#31363B</Background>
@@ -95,7 +95,7 @@
     </PagerStyle>
     
     <MenuStyle>
-        <Font>NotoSans-11</Font>
+        <Font>Liberation Sans-11</Font>
         <Foreground>#FCFCFC</Foreground>
         <Background>#31363B</Background>
         <Outline>#1a1c1f</Outline>
@@ -107,7 +107,7 @@
     </MenuStyle>
     
     <PopupStyle>
-        <Font>NotoSans-11</Font>
+        <Font>Liberation Sans-11</Font>
         <Foreground>#FCFCFC</Foreground>
         <Background>#232629</Background>
     </PopupStyle>
